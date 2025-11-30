@@ -1,1 +1,2 @@
-# calculator
+# 🧮 Simple Web Calculator
+
